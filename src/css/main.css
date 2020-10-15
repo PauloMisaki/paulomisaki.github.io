@@ -1,0 +1,118 @@
+* {
+  color: white;
+}
+
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-up {
+  animation-name: up;
+  animation-duration: 300ms;
+  animation-fill-mode: backwards;
+}
+
+#henlo {
+  animation-delay: 50ms;
+}
+
+#namae {
+  animation-delay: 60ms;
+}
+
+#me {
+  animation-delay: 200ms;
+}
+
+#myport {
+  animation-delay: 250ms;
+}
+
+#see {
+  animation-delay: 1000ms;
+}
+
+#port:hover {
+  border-color: #661411;
+}
+
+#port {
+  height: 260px;
+  width: 520px;
+  border: 3px;
+  border-color: #e62b26;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.photo {
+  height: 254px;
+  width: 514px;
+  border-radius: 2px;
+}
+
+.rosa {
+  color: #616161;
+}
+
+.vermelho {
+  color: #e62b26;
+}
+
+.vermelhoforte {
+  color: #b3231e;
+}
+
+.escarlate {
+  color: #661411;
+}
+
+.marrom {
+  color: #663230;
+}
+
+#works {
+  background: rgb(15, 15, 15);
+  background: linear-gradient(
+    0deg,
+    rgba(15, 15, 15, 1) 0%,
+    rgba(15, 15, 15, 1) 0%,
+    rgba(68, 68, 68, 1) 30%,
+    rgba(20, 20, 20, 1) 96%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+.box-nav {
+  border-color: #661111;
+}
+
+#marrom {
+  background-color: #663230;
+}
+
+#bgcard {
+  background-color: #663230, 0.8;
+}
+
+button .default {
+  display: none;
+}
+button:hover .hovering {
+  display: none;
+}
+button:hover .default {
+  display: inline;
+}
+
+.fundocinza {
+  background-color: rgba(15, 15, 15, 1);
+}
