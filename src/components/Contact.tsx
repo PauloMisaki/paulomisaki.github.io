@@ -6,18 +6,18 @@ export default function Contact() {
       <div className="flex flex-col items-center mb-20 leading-none">
         <h3 className="text-6xl font-bold opacity-25">CONTACT</h3>
         <h4 className="z-10 pb-3 mb-4 -mt-8 text-4xl font-bold border-b-2 border-red-900 opacity-100">
-          GET IN <span className="vermelho">TOUCH</span>
+          GET IN <span className="">TOUCH</span>
         </h4>
       </div>
       <div id="" className="flex flex-row-reverse items-center justify-center pt-20 pb-20 fundocinza">
         <div className="mx-16 leading-snug">
           <p className="pb-3 pl-4 text-2xl font-bold vermelhoforte">CONTACT ME</p>
           <p className="pb-3 pl-4 ">
-            Feel free to get in touch with me. <br />I am <span className="vermelho">always open</span> to
-            discussing new projects, <br />
-            creative ideas or opportunities to be part of <span className="vermelho">your visions</span>.
+            Feel free to get in touch with me. <br />I am <span className="">always open</span> to
+            new projects, <br />
+            creative ideas and opportunities to bring <span className="">your visions to life.</span>
           </p>
-          <h3 className="pl-4 vermelho">Why not we build something together ?</h3>
+          <h3 className="pl-4 vermelho">Let's build something together !</h3>
           <div className="flex flex-row pt-10 pl-8 space-x-8">
             <a href="https://www.linkedin.com/in/paulo-henrique-soares-bandeira-4a06b5187/">
             <FaLinkedin className="text-4xl"/>
