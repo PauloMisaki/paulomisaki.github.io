@@ -13,7 +13,7 @@ export default function Heromain() {
           <span className="text-5xl font-bold vermelho">PAULO MISAKI</span>
         </p>
         <p id="me" className="pl-4 text-lg border-l-2 border-red-700 animate-up">
-          A Brazilian based Full-Stack Developer focused on <br />
+          A Brazilian based FullStack Developer focused on <br />
           <span className="">crafting clean & perfect experiences</span>.
         </p>
         <p id="myport" className="pl-4 text-lg border-l-2 border-red-600 animate-up">

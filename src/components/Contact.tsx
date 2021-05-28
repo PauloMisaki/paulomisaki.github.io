@@ -30,7 +30,7 @@ export default function Contact() {
         </div>
         <button id="bgcard" className="flex flex-col px-6 my-10 ml-32 mr-10 text-3xl border-solid">
 <p className="text-3xl font-bold vermelho ">Paulo Henrique "Misaki"</p>
-<p className="mb-3 text-2xl vermelhoforte">FrontEnd Junior Developer</p>
+<p className="mb-3 text-2xl vermelhoforte">FullStack Junior Developer</p>
 <p className="text-xl"><span className="rosa">Age:</span> 24</p>
 <p className="text-xl"><span className="rosa">Residence:</span> BRAZIL</p>
 <p className="text-xl"><span className="rosa">Status:</span> AVAILABLE</p>
